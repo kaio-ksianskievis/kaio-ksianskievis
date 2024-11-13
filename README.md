@@ -16,7 +16,6 @@ I'm Kaio I'm studying to become a programmer and looking for learning to expand 
 # 📊 GitHub Stats:
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=kaio-ksianskievis&theme=react&hide_border=false&include_all_commits=true&count_private=true&border_radius=10">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaio-ksianskievis&theme=react&hide_border=false&border_radius=10">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-ksianskievis&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10">
 
 </div>
